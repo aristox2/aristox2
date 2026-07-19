@@ -2,8 +2,6 @@
 <img src="greeting.gif" alt="Hello·Olá · Hola · مرحبا · नमस्ते" width="620">
 
 # about me
-
-welcome. 
 these days i split my time between two things that turn out to be the same skill pointed at different problems: **making things fly**, and **figuring out what/where people are hiding.**
 
 ### stack
