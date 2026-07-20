@@ -10,8 +10,6 @@ these days i split my time between two things that turn out to be the same skill
   <img src="https://skillicons.dev/icons?i=py,r,cpp,cs,arduino,unity,linux,raspberrypi,bash&theme=dark&perline=9" alt="stack" />
 </a>
 
-### whatcha doin'?
-
 <img src="whatcha-doin.gif" alt="whatcha doin" width="300">
 
 * **[bido](https://github.com/aristox2/bido)** — working on its c++ graph core; trying to get this thing to push on entity-resolution and cross-source cascade handling. 
