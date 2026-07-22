@@ -13,7 +13,7 @@ these days i split my time between two things that turn out to be the same skill
 ### 
 <img src="whatcha-doin.gif" alt="whatcha doin" width="300">
 
-* **[bido](https://github.com/aristox2/bido)** — working on its c++ graph core; trying to get this thing to push on entity-resolution and cross-source cascade handling. 
+* **[bido](https://github.com/aristox2/bido_public)** — working on its c++ graph core; trying to get this thing to push on entity-resolution and cross-source cascade handling. 
 * **[Fennec UKF](https://github.com/aristox2/fennec-mission)** — an unscented kalman filter to reconcile two altus metrum altimeters against payload imu integration; there's a ~24% transonic velocity disagreement on fennec ii between the two.
 * **Academic Research** - collabing with my professors to catch/find bad guys in untraditional ways. check out  **[cardinal](https://github.com/aristox2/ira_analysis)**, my first academic project combining math and osint!
 
